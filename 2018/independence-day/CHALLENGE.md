@@ -1,4 +1,7 @@
 # Independence Day Challenge
+## Challenge Name
+guessing-game
+## Challenge Requirements
 Create a _small_ number guessing game.
 The program should run like this when complete
 
