@@ -13,7 +13,7 @@ _CHALLENGE.md_
 
 the other item in that folder will be a folder titled **entries**  
 _Simply_ upload your source code there, make sure that each entry is only 1 file in size.
-**TITLE** the file <your_username><challenge>.<extension>
+**TITLE** the file your_username-challenge.extension
  Commenting your code isn't needed but may help others see what you did and why.
   
 Thanks
